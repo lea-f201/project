@@ -10,7 +10,7 @@ import datetime
 from fredapi import Fred
 
 st.set_page_config(
-    page_title="MSBA350 - Assignment 2 - G4",
+    page_title="Stocks and Crypto Analysis",
     page_icon="",
     layout="wide",
     initial_sidebar_state="expanded")
